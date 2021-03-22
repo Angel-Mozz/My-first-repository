@@ -19,8 +19,8 @@ console.log( mensaje );
 
 //Caracteristicas de una persona
 const nombre = "Angel";
-const apellidoPaterno = "Ocariz";
-const apellidoMaterno = "Martinez";
+const apellidoPaterno = "Oc";
+const apellidoMaterno = "Ma";
 var edad = 16;
 const lugarNacimiento = "Mexico";
 
@@ -58,8 +58,8 @@ const arregloMixto = [ 1, "quesito", 2, "con", 3, "jamon" ];
 
 var objPersona = {
     nombre: "Angel",
-    apellidoPaterno: "Ocariz",
-    apellidoMaterno: "Martinez",
+    apellidoPaterno: "Oc",
+    apellidoMaterno: "Ma",
     edad = 16,
     lugarNacimiento = "Mexico"  
 
